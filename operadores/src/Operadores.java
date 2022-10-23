@@ -1,6 +1,6 @@
 public class Operadores {
     public static void main(String[] args) {
-        int numero = 5;
+        int numero = 4;
 
         numero = -numero;
 
@@ -9,7 +9,6 @@ public class Operadores {
         numero = numero * -1;
 
         System.out.println(numero);
-        
 
     }
 
